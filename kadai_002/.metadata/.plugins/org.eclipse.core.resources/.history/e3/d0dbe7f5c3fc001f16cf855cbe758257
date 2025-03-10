@@ -15,8 +15,8 @@ spring.mail.password=dmgknpbpanrqxcoh
 spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 
-stripe.api-key=sk_test_51Qps2DJyKx1lCLAz49Me7ysH7zlStr5W1x1IwBE9i0K3YH2XyZW8tFenkjzRUFFDqu8qygv4Vb8sDlkoD9rFAJ6d00ldgS9wD9
-stripe.webhook-secret=whsec_47373ae1c7d3c906e3ca1ee61482979d1f406a325c6cb76d5a9855b7d66bae17
+stripe.api-key=*****
+stripe.webhook-secret=*****
 
 logging.level.org.springframework.security=DEBUG
 
