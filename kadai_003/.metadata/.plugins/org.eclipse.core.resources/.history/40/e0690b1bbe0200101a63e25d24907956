@@ -1,0 +1,6 @@
+package com.example.samuraitravel.repository;
+
+public class FavoriteRepository {
+	public Favorite findByHouseAndUser(House house, User user);
+	
+}
